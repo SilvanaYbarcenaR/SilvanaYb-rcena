@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, my nombre es Silvana Ybárcena</h1>
 <h3 align="center">Una apasionada desarrolladora web Full-stack de Perú</h3>
 
+<p>Soy una desarrolladora con 4+ años de experiencia como Front-end developer, especializada en maquetación, diseño de prototipos, UX, ecommerce e implementación de webs, gestión de proyectos y manejo de equipos. Recientemente graduada de Henry he adquirido las habilidades para poder incursionar en el mundo del Backend con tecnologías como Sequelize, PostgreSQL, NodeJS y Express, además de complementar mis conocimientos con Front-end developer. Me considero una persona hábil, proactiva, me gusta aprender cosas nuevas y poder compartir conocimientos y experiencias. Busco evolucionar en el sector tecnológico, con presencia internacional.</p>
+
 - Actualmente acabo de finalizar un proyecto llamado [Nómada Suite](ttps://nomada-suite.vercel.app/)
 
 - 💬 Pregúntame a cerca de **React, redux, vue, html, css, sass, less, php, sequelize, nodejs, express, PostgreSQL, wordpress, laravel.**
